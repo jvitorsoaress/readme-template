@@ -1,3 +1,5 @@
+<!-- GITHUB BADGES LINK: https://shields.io/ -->
+
 # Project Name
 
 ## Overview
